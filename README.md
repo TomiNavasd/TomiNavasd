@@ -30,7 +30,7 @@ Actualmente, no solo estudio, sino que construyo soluciones complejas utilizando
 | **Plataforma Social Distribuida (Microservicios)** |
 | Red social basada en .NET 8 que integra Spotify e IA. Arquitectura desacoplada con **RabbitMQ** para procesamiento asíncrono y **Google Cloud**. |
 | 🛠️ *.NET 8, RabbitMQ, Microservices, SQL* |
-|  [🔗 Ver Código](https://github.com/lautarosard/SoundList) |
+|  [🔗 Ver Código](https://github.com/SoundList) |
 
 ---
 
